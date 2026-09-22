@@ -1,0 +1,82 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+#nav {
+    background-color: #60241E;
+    height: 100px;
+}
+
+#bean {
+    text-align: center;
+    color: aliceblue;
+    padding-top: 10px;
+}
+
+#options {
+    text-align: center;
+    padding: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 20px;
+
+
+}
+
+.hero {
+    background-color: #660B05;
+    height: 500px;
+    text-align: center;
+    color: aliceblue;
+
+
+}
+
+button {
+    background-color: rgb(179, 112, 81);
+    height: 30px;
+    width: 150px;
+    color: black;
+    font-weight: 100;
+    border-radius: 5px;
+
+
+}
+
+#h1 {
+    padding-top: 100px;
+
+}
+
+
+#p1 {
+    padding-top: 50px;
+}
+
+
+
+.div2 {
+    height: 600px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.capp {
+    height: 400px;
+    width: 200px;
+    background-color: rgb(141, 88, 9);
+    /* display: inline */
+    
+  
+
+}
